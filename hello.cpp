@@ -4,6 +4,6 @@ using namespace std;
 	
 int main()
 {
-	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+	cout << "Hello! I am Tim" <<  endl;
+	cout << "This is the file I'm trying to push on Git" <<  endl;
 }
